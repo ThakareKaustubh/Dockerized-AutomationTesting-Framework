@@ -5,6 +5,7 @@ pipeline {
     }
     tools {
         allure 'AllureCLI'
+	git 'git'
     }
 
     parameters {
