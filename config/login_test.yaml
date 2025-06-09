@@ -1,0 +1,21 @@
+login_data:
+  username: "validLoginUser"
+  email: "validLoginUser23@tester.com"
+  password: "SecurePass!123"
+  birthdate:
+    day: "4"
+    month: "4"
+    year: "2000"
+  title: "Mr"
+  checkboxes: true
+  address:
+    first_name: "TesFname"
+    last_name: "TestLName"
+    company: "TestCompany"
+    address1: "123 Test Street"
+    address2: "Test street 123"
+    country: "Singapore"
+    state: "TestState"
+    city: "TestCity"
+    zipcode: "411001"
+    mobile_number: "9986734557"
