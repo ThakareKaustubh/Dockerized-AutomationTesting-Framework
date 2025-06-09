@@ -1,6 +1,8 @@
 pipeline {
-    agent any
 
+    agent {
+        	label 'linux-docker-agent' // <- change to your agent's label
+    }
     tools {
         allure 'AllureCLI'
     }
